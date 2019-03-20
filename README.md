@@ -1,3 +1,9 @@
+-----
+This repo contains an implementation of an image processing pipeline using Histogram of Oriented Gradients features, a Support Vector Machine classifier, and the sliding window technique for vehicle detection. It is built on Udacity's Self-Driving Car Nanodegree CarND-Vehicle-Detection project.
+
+The description below comes from the original repo (https://github.com/udacity/CarND-Vehicle-Detection.git).
+
+-----
 # Vehicle Detection
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
